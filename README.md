@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Cristian Villa
+- 👀 I’m interested in Deep Learning 
+- 📫 How to reach me cvillavarga@uniminuto.edu.co
